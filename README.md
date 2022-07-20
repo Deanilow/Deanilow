@@ -1,16 +1,26 @@
-deanilow/README.md
-Que tal?, Soy Danilo 👋
-📌 Aquí hay algunas cosas que me describen:
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><h3 dir="auto"><a id="user-content-que-tal-soy-lautaro-" class="anchor" aria-hidden="true" href="#que-tal-soy-lautaro-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Que tal?, Soy Lautaro <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
+<p dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> <em>Aquí hay algunas cosas que me describen:</em></p>
+<ul dir="auto">
+<li><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> &nbsp;Actualmente estoy trabajando en <a href="https://www.algeiba.com/" rel="nofollow">Algeiba</a> como Desarrollador de Soluciones de Software</li>
+<li><g-emoji class="g-emoji" alias="bookmark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f516.png">🔖</g-emoji> &nbsp;Actualmente soy uno de los organizadores <a href="https://latinonet.online/" rel="nofollow">Latino .NET Online</a></li>
+<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> &nbsp;Mi objetivo personal es convertirme en un arquitecto de software</li>
+<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> &nbsp;Paso la mayor parte de mi tiempo escribiendo C# tanto con Blazor como en el desarrollo de Web-Api</li>
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> &nbsp;Actualmente estoy aprendiendo .NET 6</li>
+<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> &nbsp;Pregúntame sobre cualquier cosa, estaré encantado de ayudarte.</li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> &nbsp;<em>Como encontrarme:</em> <a href="https://twitter.com/lauchacarro" rel="nofollow">Twitter</a> | <a href="https://www.linkedin.com/in/lautaro-carro/" rel="nofollow">Linkedin</a> | <a href="mailto:lautaroecarro@gmail.com">Email</a> | <a href="https://lautarocarro.blog" rel="nofollow">Website</a> <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji></li>
+<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> &nbsp;<em>Fun fact:</em> I <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> programming!!<g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></li>
+</ul>
+<h3 dir="auto"><a id="user-content--últimos-articulos-del-blog" class="anchor" aria-hidden="true" href="#-últimos-articulos-del-blog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="envelope_with_arrow" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e9.png">📩</g-emoji> Últimos Articulos del Blog</h3>
 
-💼  Actualmente estoy trabajando en NaoSolutions como Desarrollador de Soluciones de Software
-🔭  Mi objetivo personal es convertirme en un arquitecto de software
-💻  Paso la mayor parte de mi tiempo escribiendo C# tanto con Blazor como en el desarrollo de Web-Api y Javascript
-🌱  Actualmente estoy aprendiendo .NET 6
-📫  Como encontrarme: Twitter | Linkedin | Email 
+<ul dir="auto">
+<li><a href="https://lautarocarro.blog/como-guardar-un-json-con-entityframework-core/" rel="nofollow">¿Cómo guardar un JSON con EntityFramework Core?</a></li>
+<li><a href="https://lautarocarro.blog/preparandonos-para-net-6-asp-net-core-roadmap/" rel="nofollow">Preparándonos para .NET 6: Asp NET Core Roadmap</a></li>
+<li><a href="https://lautarocarro.blog/blazor-vale-la-pena-cuando-si-y-cuando-no/" rel="nofollow">¿Blazor vale la pena? Cuando si y cuando no</a></li>
+<li><a href="https://lautarocarro.blog/preparandonos-para-net-6-nullable-reference-en-net-6/" rel="nofollow">Preparándonos para NET 6: Nullable Reference en NET 6</a></li>
+<li><a href="https://lautarocarro.blog/preparandonos-para-net-6-version-alpha/" rel="nofollow">Preparándonos para .NET 6: Versión Alpha</a></li>
+</ul>
 
-
-📦 Lenguajes y Tecnología:
-
+<h3 dir="auto"><a id="user-content--lenguajes-y-tecnología" class="anchor" aria-hidden="true" href="#-lenguajes-y-tecnología"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> Lenguajes y Tecnología:</h3>
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
 
 
@@ -25,5 +35,8 @@ Que tal?, Soy Danilo 👋
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" style="max-width: 100%;"></a></code>
 <br></p>
-
-            
+<details>
+  <summary><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <b><i>GitHub Stats</i></b></summary>
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/39686621cb0fc441886f1d1db5bc81c6d079b3e65e2e5d2975bd6342c54ad710/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c6175636861636172726f2673686f775f69636f6e733d74727565267468656d653d676f7468616d"><img src="https://camo.githubusercontent.com/39686621cb0fc441886f1d1db5bc81c6d079b3e65e2e5d2975bd6342c54ad710/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c6175636861636172726f2673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="Lautaro Carro GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=lauchacarro&amp;show_icons=true&amp;theme=gotham" style="max-width: 100%;"></a>
+</details>
+</article>
