@@ -5,7 +5,7 @@
 
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> &nbsp;Mi objetivo personal es convertirme en un arquitecto de software</li>
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> &nbsp;Paso la mayor parte de mi tiempo escribiendo C# tanto con Blazor como en el desarrollo de Web-Api y Javascript</li>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> &nbsp;Actualmente estoy aprendiendo .NET 6</li>
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> &nbsp;Actualmente estoy aprendiendo TypeScript y medios de comunicacion real</li>
 
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> &nbsp;<em>Como encontrarme:</em> <a href="https://twitter.com/Deanilow" rel="nofollow">Twitter</a> | <a href="https://www.linkedin.com/in/deanilow/" rel="nofollow">Linkedin</a> | <a href="mailto:D4niloRamos@hotmail.com">Email</a> |  <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji></li>
 
