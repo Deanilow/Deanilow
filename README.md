@@ -3,7 +3,6 @@
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> &nbsp;Actualmente estoy trabajando como Desarrollador Back End</li>
 
-<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> &nbsp;Mi objetivo personal es convertirme en un arquitecto de software</li>
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> &nbsp;Paso la mayor parte de mi tiempo escribiendo en C# (backend y frontend) y Javascript (backend y frontend)</li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> &nbsp;Actualmente estoy aprendiendo Angular y typescript</li>
 
