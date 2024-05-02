@@ -23,10 +23,6 @@
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Ajavascript"><img alt="JavaScript" src="https://camo.githubusercontent.com/7cd372acdf23a17b379dd671ece3d2a5554e62a2f94db6f8656ba394db551169/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a><a href="https://github.com/search?q=user%3ASammwyy1+language%3AtypeScript"><img alt="TypeScript" src="https://camo.githubusercontent.com/3e9a741cdff89b67cd5457c74771d738c121068ad2413cd7d8ec53e379476ae3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143432e7376673f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Amarkdown"></a>
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Ajavascript"><img alt="Node.js" src="https://camo.githubusercontent.com/32a05dee2f858c387c2763ca4ad98d43e43de7ad52e89ab23d84d8fbe01b1437/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533442e7376673f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&amp;logoColor=white" style="max-width: 100%;"></a>
-
-
-
-
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Asql"><img alt="SQL" src="https://camo.githubusercontent.com/74013faa92d2db17988fce85976064302ea23f83412f5cbe1a6e7e3c5b00425d/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f53514c2d3032354538432e7376673f6c6f676f3d6461746162617365266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&amp;logoColor=white" style="max-width: 100%;"></a>
 
 </p>
