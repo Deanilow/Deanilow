@@ -42,4 +42,4 @@
 <a href="#"><img alt="Vercel" src="https://camo.githubusercontent.com/1ce7b263a4c6f5b8584d73a2654d01fc143d92c0a06d436cea98e9d2b3e89d84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657263656c2d3030303030302e7376673f6c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
 </p>
 
-Inspirado https://github.com/sammwyy
+
