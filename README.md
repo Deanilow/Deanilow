@@ -1,45 +1,49 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><h3 dir="auto"><a id="user-content-que-tal-soy-lautaro-" class="anchor" aria-hidden="true" href="#que-tal-soy-lautaro-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Que tal?, Soy Danilo <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
-<p dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> <em>Aquí hay algunas cosas que me describen:</em></p>
-<ul dir="auto">
-<li><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> &nbsp;Actualmente estoy trabajando como Desarrollador Back End</li>
+<h1 align="center">Hola, soy Danilo 👋</h1>
 
-<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> &nbsp;Paso la mayor parte de mi tiempo escribiendo en C# (backend y frontend) y Javascript (backend y frontend)</li>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> &nbsp;Actualmente estoy aprendiendo React , Angular y typescript</li>
+📌 *Aquí hay algunas cosas que me describen:*
 
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> &nbsp;<em>Como encontrarme:</em> <a href="https://twitter.com/Deanilow" rel="nofollow">Twitter</a> | <a href="https://www.linkedin.com/in/deanilow/" rel="nofollow">Linkedin</a> | <a href="mailto:D4niloRamos@hotmail.com">Email</a> |  <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji></li>
+- 💼 Actualmente trabajando como **Desarrollador Back End**
+- 💻 Principalmente programo en **C#** (backend y frontend) y **JavaScript**
+- 🌱 Actualmente aprendiendo **React**, **Angular** y **TypeScript**
+- 📫 *Cómo contactarme:* [Twitter](https://twitter.com/Deanilow) | [LinkedIn](https://www.linkedin.com/in/deanilow/) | [Email](mailto:D4niloRamos@hotmail.com) 🚀
 
-</ul>
+---
 
+### 💻 Lenguajes de programación
 
-
-<div dir="auto"><div class="markdown-heading" dir="auto"><h4 align="center" dir="auto" tabindex="-1" class="heading-element">💻 Lenguajes de programación (y html)</h4><a id="user-content--programming-languages-and-html" class="anchor" aria-label="Permalink: 💻 Programming languages (and html)" href="#-programming-languages-and-html"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div><a id="user-content--programming-languages-and-html" aria-label="Permalink: 💻 Programming languages (and html)" href="#-programming-languages-and-html"></a></div>
-<p align="center" dir="auto"><a href="https://github.com/search?q=user%3ASammwyy1+language%3Acsharp"><img alt="C#" src="https://camo.githubusercontent.com/73a4a3cafc4e565afda94f36f57bf903a1168765fd5e5dc9f7b3b69d4ea74803/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f432532332d3638323137412e7376673f6c6f676f3d637332266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="https://github.com/search?q=user%3ASammwyy1+language%3Acss"><img alt="CSS" src="https://camo.githubusercontent.com/e7186a5ad7f7a194afef6ebb0b3dfca6f538a3d29cd086bc2d5c3f24e5fdf596/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242362e7376673f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="https://github.com/search?q=user%3ASammwyy1+language%3Ahtml"><img alt="HTML" src="https://camo.githubusercontent.com/ed857b47ef9f4432e7832949b63673da1badd2f97f94f6776eb4fabf68be3682/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632362e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="https://github.com/search?q=user%3ASammwyy1+language%3Ajava"></a>
-<a href="https://github.com/search?q=user%3ASammwyy1+language%3Ajavascript"><img alt="JavaScript" src="https://camo.githubusercontent.com/7cd372acdf23a17b379dd671ece3d2a5554e62a2f94db6f8656ba394db551169/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" style="max-width: 100%;"></a><a href="https://github.com/search?q=user%3ASammwyy1+language%3AtypeScript"><img alt="TypeScript" src="https://camo.githubusercontent.com/3e9a741cdff89b67cd5457c74771d738c121068ad2413cd7d8ec53e379476ae3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143432e7376673f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="https://github.com/search?q=user%3ASammwyy1+language%3Amarkdown"></a>
-<a href="https://github.com/search?q=user%3ASammwyy1+language%3Ajavascript"><img alt="Node.js" src="https://camo.githubusercontent.com/32a05dee2f858c387c2763ca4ad98d43e43de7ad52e89ab23d84d8fbe01b1437/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533442e7376673f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="https://github.com/search?q=user%3ASammwyy1+language%3Asql"><img alt="SQL" src="https://camo.githubusercontent.com/74013faa92d2db17988fce85976064302ea23f83412f5cbe1a6e7e3c5b00425d/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f53514c2d3032354538432e7376673f6c6f676f3d6461746162617365266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a></p>
-<div dir="auto"><div class="markdown-heading" dir="auto"><h4 align="center" dir="auto" tabindex="-1" class="heading-element">📚 Frameworks and Libraries</h4><a id="user-content--frameworks-and-libraries" class="anchor" aria-label="Permalink: 📚 Frameworks and Libraries" href="#-frameworks-and-libraries"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div><a id="user-content--frameworks-and-libraries" aria-label="Permalink: 📚 Frameworks and Libraries" href="#-frameworks-and-libraries"></a></div>
-
-<p dir="auto" align="center"><a href="#"><img alt="Bootstrap" src="https://camo.githubusercontent.com/811bd39ded1690ff91466954b6c6bc845a248b028ad2f78c98ddf9c1d4a38a67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242332e7376673f6c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="#"><img alt="Dotnet" src="https://camo.githubusercontent.com/1e745353d78b013ca47987039ca4db3606c3ee0ba35df7fb3eb092fe83360592/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f746e65742d3531324244342e7376673f6c6f676f3d646f746e6574266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="#"><img alt="Express.js" src="https://camo.githubusercontent.com/63bcf9adda5f33dad184cba829b4f1fba85a2390363011f60dc2f9c7374ceb75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d3430346435392e7376673f6c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="#"><img alt="NestJS" src="https://camo.githubusercontent.com/adf1255278b895b65803e4bffe6dac6022dabc5ab7fb644b696cf7b2dba959e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6573744a532d4530323334452e7376673f6c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="#"><img alt="React" src="https://camo.githubusercontent.com/477ef9f81f2b4e3b94c0f81d0d703724ba29a0e5936e51d409e4f05fc0814062/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146422e7376673f6c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b" style="max-width: 100%;"></a></p>
-
-<div dir="auto"><div class="markdown-heading" dir="auto"><h4 align="center" dir="auto" tabindex="-1" class="heading-element">☁ Cloud and Providers</h4><a id="user-content--cloud-and-providers" class="anchor" aria-label="Permalink: ☁ Cloud and Providers" href="#-cloud-and-providers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div><a id="user-content--cloud-and-providers" aria-label="Permalink: ☁ Cloud and Providers" href="#-cloud-and-providers"></a></div>
-
-<p align="center" dir="auto">
-<a href="#"><img alt="AWS" src="https://camo.githubusercontent.com/4e12bf7bf8f729c2288716b530e962435d0837c8888f1859ac4518da6beea244/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d3233324633452e7376673f6c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="#"><img alt="Cloudflare" src="https://camo.githubusercontent.com/265235ab56270c8a9aa1fb4325a9f7580b5b08941fb2c33a76a5080993d8b743/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f7564666c6172652d4633383032302e7376673f6c6f676f3d636c6f7564666c617265266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="#"><img alt="GitHub Pages" src="https://camo.githubusercontent.com/1e9bb7c86f9ca0bb6cb9e7ed93ffa23f0495389dcde4238d4a334d883ec6f0e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47697448756225323050616765732d3332374643372e7376673f6c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="#"><img alt="MongoDB" src="https://camo.githubusercontent.com/f28cacf6c41968aad8d18ca02bc91ddbe768827e34953db3728c86949b683dc6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3437413234382e7376673f6c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="#"><img alt="MySQL" src="https://camo.githubusercontent.com/da9e9bb32edcbf21c831c56ea50e98f6aabd6c8932aec2a9f01598c3de2380df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030662e7376673f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="#"><img alt="Nginx" src="https://camo.githubusercontent.com/eba11c113027c4bf365fca075ba23c64c811ceadb74ab9ec2c04e2ca42287aae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e67696e782d3030393633392e7376673f6c6f676f3d6e67696e78266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="#"><img alt="Redis" src="https://camo.githubusercontent.com/a751545dab3468dccd875d47521ee2900c74de17a8f7c49ff15786e7946bdb6f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656469732d4443333832442e7376673f6c6f676f3d7265646973266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="#"><img alt="Vercel" src="https://camo.githubusercontent.com/1ce7b263a4c6f5b8584d73a2654d01fc143d92c0a06d436cea98e9d2b3e89d84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657263656c2d3030303030302e7376673f6c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-68217A?logo=csharp&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?logo=sqlite&logoColor=white&style=for-the-badge" />
 </p>
 
+---
 
+### 📚 Frameworks y Librerías
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express-404d59?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+### ☁ Cloud y Proveedores
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+</p>
