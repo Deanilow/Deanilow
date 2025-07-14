@@ -2,7 +2,7 @@
 
 📌 *Aquí hay algunas cosas que me describen:*
 
-- 💼 Actualmente trabajando como **Ingeniero de Softwart en NTT*
+- 💼 Actualmente trabajando como **Ingeniero de Softwart en NTT**
 - 💻 Principalmente programo en **C#** (backend y frontend) y **JavaScript**
 - 🌱 Actualmente aprendiendo **React**, **Angular** y **TypeScript**
 - 📫 *Cómo contactarme:* [Twitter](https://twitter.com/Deanilow) | [LinkedIn](https://www.linkedin.com/in/deanilow/) | [Email](mailto:D4niloRamos@hotmail.com) 🚀
