@@ -35,11 +35,22 @@
 
 ---
 
+### ☁ Databases
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-009639?logo=nginx&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
 ### ☁ Cloud y Proveedores
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AZURE-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7?logo=github&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white&style=for-the-badge" />
