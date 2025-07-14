@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQLSERVER-009639?logo=SQLSERVER&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-HANA-000?&logo=SAP&logoColor=4479A1" />
 </p>
 
 ---
