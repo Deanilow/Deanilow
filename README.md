@@ -43,7 +43,8 @@
   <img src="https://img.shields.io/badge/SQLSERVER-009639?logo=SQLSERVER&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-HANA-000?&logo=SAP&logoColor=4479A1" />
- <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TABLESTORAGE-000?&logo=AZURE&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/oracle-232F3E?logo=AZURE&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
