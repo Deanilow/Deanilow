@@ -55,6 +55,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AZURE-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7?logo=github&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gitlab%20Pages-327FC7?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gitlab-327FC7?logo=gitlab&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
 </p>
