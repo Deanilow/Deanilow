@@ -2,7 +2,7 @@
 
 📌 *Aquí hay algunas cosas que me describen:*
 
-- 💼 Actualmente trabajando como **Ingeniero de Software en NTT**
+- 💼 Actualmente trabajando como **Ingeniero de Software en Vass**
 - 💻 Principalmente programo en **C#** (backend y frontend) y **JavaScript**
 - 🌱 Actualmente aprendiendo **React**, **Angular** y **TypeScript**
 - 📫 *Cómo contactarme:* [Twitter](https://twitter.com/Deanilow) | [LinkedIn](https://www.linkedin.com/in/deanilow/) | [Email](mailto:D4niloRamos@hotmail.com) 🚀
