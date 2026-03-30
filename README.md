@@ -4,7 +4,7 @@
 
 - 💼 Actualmente trabajando como **Ingeniero de Software en Vass**
 - 💻 Principalmente programo en **C#** (backend y frontend) y **JavaScript** (backend y frontend)
-- 🌱 Actualmente aprendiendo **React**, **Angular** y **TypeScript**
+- 🌱 Actualmente aprendiendo **mobile**
 - 📫 *Cómo contactarme:* [Twitter](https://twitter.com/Deanilow) | [LinkedIn](https://www.linkedin.com/in/deanilow/) | [Email](mailto:D4niloRamos@hotmail.com) 🚀
 
 ---
